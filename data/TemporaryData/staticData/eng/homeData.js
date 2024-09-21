@@ -31,7 +31,7 @@ export const homeDataEng = {
   motivation: {
     title: "QESTION IS THE HALF OF THE ANSWER",
     description:
-      "Hey there! I'd like to pose a question: Where do you see yourself in ten years? If you have an answer already, it means you have a dream and you're determined to make it a reality. I'm here to remind you that if you're already working hard, keep pushing yourself even further. If you haven't started yet, now is the perfect time to begin. Don't give up, and never stop investing in yourself, even when it feels exhausting. I know it won't be easy; it will require hard work and sacrifices. But here's a secret: It will all be worth it in the end. That's why we created the SA9SINI website—to support you in your academic journey.",
+      "Hey there! I'd like to pose a question: Where do you see yourself in ten years? If you have an answer already, it means you have a dream and you're determined to make it a reality. I'm here to remind you that if you're already working hard, keep pushing yourself even further. If you haven't started yet, now is the perfect time to begin. Don't give up, and never stop investing in yourself, even when it feels exhausting. I know it won't be easy; it will require hard work and sacrifices. But here's a secret: It will all be worth it in the end. That's why we created ALMORAFIK website to support you in your academic journey.",
     action: "Get Motivated!",
   },
 };
